@@ -10,7 +10,7 @@
 5. What did you say for the last question? Hop on chat and share your answer with your group! See any common answers?
 
 
-###My Subission:
+###My Submission:
 1. Reviewed index.html file, learned to write basic HTML codes.
 2. Made required changes to the code, like my name and other stuffs.
 3. Linked the CSS code to the HTML file to give style to the boring HTML file.
